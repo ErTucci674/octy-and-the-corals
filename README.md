@@ -13,7 +13,7 @@ In 2024, I joined the _Iungo Solutions_ Bootcamp to dive into the professional w
 
 ## Start Playing (PC only)🎮
 You can click the following link to open the GitHub web page:
-https://ertucci674.github.io/sweeping-mines/
+[Itch.io - Octy and the Corals](https://ertucci674.itch.io/octy-and-the-corals)
 
 OR
 
