@@ -1,4 +1,4 @@
-# 🐙Octy and the Corals🪸
+# 🐙Octy and the Corals - 2D Game🪸
 
 ## Game Plot ✍️
 Octy is an octopus adventuring into the wondrous depths of the sea. As he swims through the dark caves, he finds himself avoiding the dangerous corals on the way. Coral after Coral, the sea currents become stronger and a crash is more imminent.
@@ -11,7 +11,7 @@ In 2024, I joined the _Iungo Solutions_ Bootcamp to dive into the professional w
 + Unity
 + C#
 
-## Start Playing 🎮
+## Start Playing (PC only)🎮
 You can click the following link to open the GitHub web page:
 https://ertucci674.github.io/sweeping-mines/
 
